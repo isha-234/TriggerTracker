@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777369309050",
+    "firebase_url": "https://track-trigger-f1dcf.firebaseio.com",
+    "project_id": "track-trigger-f1dcf",
+    "storage_bucket": "track-trigger-f1dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777369309050:android:b0e6369d124588450250c3",
+        "android_client_info": {
+          "package_name": "com.tandt.tracktrigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777369309050-082ltk766o2j8j8utct48acp4rbk2rpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0wlm7QUbFl8SZKUeTILcshzEiL_wlEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777369309050-082ltk766o2j8j8utct48acp4rbk2rpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

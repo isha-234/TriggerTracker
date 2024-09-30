@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button8" type="id" />
+    <item name="enterPhoneNum1" type="id"/>
+    <item name="enterName1" type="id"/>
+</resources>

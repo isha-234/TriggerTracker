@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Track&amp;Trigger</string>
+    <string name="task_heading">task_h</string>
+    <string name="add_task">add_task</string>
+    <string name="set_date_and_time">set_date_time</string>
+    <string name="time">time</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="sharing_text">the list…</string>
+    <string name="share_title">Share Screenshot</string>
+    <string name="screenshot_take_failed">Failed to take screenshot!!</string>
+    <string name="wait">Please wait…</string>
+    <string name="full_page_screenshot">Full Page Screenshot</string>
+    <string name="hidden_text">Hidden Text</string>
+    <string name="custom_page_screenshot">Custom Page Screenshot</string>
+</resources>
